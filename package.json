@@ -1,0 +1,19 @@
+{
+  "name": "docsify",
+  "version": "1.0.0",
+  "description": "文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "git add . && git commit -m update && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/codeslive/blog_03.git"
+  },
+  "keywords": [
+    "xiaokang"
+  ],
+  "author": "xiaokang",
+  "license": "ISC"
+}
